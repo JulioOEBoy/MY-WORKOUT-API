@@ -1,0 +1,7 @@
+fastapi==0.99.1
+uvicorn[standard]==0.22.0
+sqlalchemy==2.0.20
+pydantic==2.3.0
+alembic==1.11.1
+databases==0.6.3
+python-dotenv==1.0.0
